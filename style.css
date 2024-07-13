@@ -113,4 +113,7 @@ body {
   .card-3 {
     border-radius: 0 0.5rem 0.5rem 0;
   }
+  .card-description {
+    margin-bottom: 5.19rem;
+  }
 }
